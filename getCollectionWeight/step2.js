@@ -2,9 +2,6 @@
  * 
  * 
  */
-
-
-
 function getWeightByType(value) {
     const WEIGHT_NULL_UNDEFINED = 1;
     const WEIGHT_PRIMITIVE = 2;
